@@ -14,6 +14,7 @@ public class Proyecto03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("IDE: NetBeans, Lenguaje:Java");
         // TODO code application logic here
     }
     
