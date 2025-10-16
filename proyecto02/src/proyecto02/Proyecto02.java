@@ -14,6 +14,7 @@ public class Proyecto02 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Computación, tiene 9 ciclos");
         // TODO code application logic here
     }
     
